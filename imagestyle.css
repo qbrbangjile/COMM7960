@@ -10,3 +10,15 @@
 	width: 400px;
 	opacity: 0.2;
 }
+.round4{
+	width: 400px;
+	filter: blur(10px);
+}
+.round5{
+	width: 400px;
+	filter: grayscale(90%);
+}
+.round6{
+	width: 400px;
+	filter: brightness(10%);
+}
