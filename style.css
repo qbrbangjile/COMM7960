@@ -1,5 +1,3 @@
-
-
 h1 {
   color: red;
   font-size: 30px;
@@ -24,4 +22,9 @@ p[align]{
 p[align="center"]{
 	color: brown;
 	font-size: 30px;
+
+}
+.imgstyle{
+	color:magenta;
+	font-size: 40px;
 }
