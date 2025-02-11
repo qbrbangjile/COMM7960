@@ -11,10 +11,17 @@ p {
 }
 
 .red {
-  color: red;
+  color: orange;
   font-size: 30px;
 }
 
 li.yellow {
   color: yellow;
+}
+p[align]{
+	color: pink;
+}
+p[align="center"]{
+	color: brown;
+	font-size: 30px;
 }
