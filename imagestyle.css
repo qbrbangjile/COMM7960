@@ -22,3 +22,13 @@
 	width: 400px;
 	filter: brightness(10%);
 }
+@keyframes rotation{
+	0% {transform: rotate(45deg);}
+	25% {transform: rotate(90deg);}
+	50% {transform: rotate(135deg);}
+	100% {transform: rotate(180deg);}
+}
+.round1:hover{
+	animation-name: rotation;
+	animation-duration: 4s;
+}
